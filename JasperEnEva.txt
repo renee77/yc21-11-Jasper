@@ -1,4 +1,4 @@
-dit is de eerste regel in ons document, ik heb hier iets toegevoegd, voor de git oefening.
+
 
 Een tweede regel die nu allemaal meer woorden bevat.
 Derde regel door jasper
